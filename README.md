@@ -111,9 +111,8 @@ If you use this code in your research, please cite:
     title={CycleDistill: Bootstrapping Machine Translation using LLMs with Cyclical Distillation},
     author={Deepon Halder, Thanmay Jayakumar, Raj Dabre},
     year={2025},
-    publisher={GitHub},
-    journal={GitHub repository},
-    howpublished={\url{https://github.com/yourusername/CycleDistill}}
+    journal={},
+    url={\url{https://github.com/deeps73/CycleDistill}}
 }
 ```
 
